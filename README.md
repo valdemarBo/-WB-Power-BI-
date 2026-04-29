@@ -1,4 +1,3 @@
-# WB Sales Dashboard – Аналитика продаж Wildberries
 
 ## Описание
 
